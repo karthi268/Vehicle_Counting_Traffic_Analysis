@@ -32,4 +32,4 @@ This project uses YOLOv8 and ByteTrack to detect, track, and analyze vehicles in
 - Vehicle Report (CSV)
 
 ## Author
-Anu Ragini
+Karthikeyan
